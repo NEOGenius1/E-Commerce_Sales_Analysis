@@ -1,2 +1,8 @@
-# E-Commerce-Sales-Analysis
-This is an E-Commerce Sales Data to help the Brand find patterns that will increase their overall sales.
+## E-Commerce-Sales-Analysis
+
+***Table of contents***
+- ***[Project overview](Project-overview)***
+- ***[Tools](Tools)***
+- ***[Findings](Findings)***
+- ***[Business recommendations]( Business-recommendations)***
+

@@ -18,6 +18,14 @@
 ---
 
 ### Project overview
+
+*This E-Commerce_Sales Analysis was to help this Brand*
+
+-	*Analyze sales trends, customer demographics, popular products, and sales channels*
+-	*Explore customer behavior such as purchase frequency, average order value, etc*
+- *Create visualizations to highlight sales patterns and customer preferences*
+- *Identify potential strategies to enhance sales, customer engagement, and retention in e- commerce*
+
 ### Data Sources
 ### Analysis Tools
 ### Data Cleaning/Preparations

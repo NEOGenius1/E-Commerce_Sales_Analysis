@@ -1,4 +1,4 @@
-## E-Commerce_Sales_Analysis
+[List_Price By Product_class.csv](https://github.com/user-attachments/files/24054279/List_Price.By.Product_class.csv)## E-Commerce_Sales_Analysis
 
 ### Table of contents
 
@@ -31,6 +31,9 @@
 ### Data Cleaning/Preparations
 ### Exploratory Data Analysis
 ### Data Analysis Codes_files/Charts
+
+
+
 
 ### Results/Findings
 

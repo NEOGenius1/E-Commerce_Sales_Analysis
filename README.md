@@ -37,32 +37,32 @@
 
 ### Results/Findings
 
-*In the course of my analysis I observe the following*
+*The following are the conclusions drawn from this dataset to help the Business align its strategy to generating more Sales., enhancing customer engagement and retention*
 
-*1.) The trends in this dataset lies in the popularity of the Product_line by Profit margin, List price by Product class, Customer by Wealth Segment, Profit by product line etc etc*
+*1.) This Brand has over $2.9m of its Total_Sales from United Kingdom which is about 92.32% Sales contribution from just one country alone, and only follow by  Netherland, EIRE, Germany and France as the Top5_Counries with the most Sales generated for this Brand*
 
-*2.) The Dataset shows that the Mass_Customer_Segment has the highest Value_Contribution to this Brand when compare to its counterparts with a total 384.07*
+*2.) The lowest performing countries for this Business are Finland, Australia and Japan with lowest Sales turnover*
 
-*3.) The Unknown gender has the highest Average Bike purchase rate of 52 for this Brand than its counterparts*
+*3.) The most popular product is the "White Hanging Heart_Light Holder" which bring in a total of 519 Customers*
 
-*4) The Product line standard has the highest profit margin of $8M by far, greater than every other product line*
+*4.) The Brand made their highest  Revenue in the year 2011 with a total sales of about $3M*
 
-*5.) The Mass customers are the biggest treasure of this Brand when it comes to purchases made*
+*5.) The second Quarter of 2019 was when the business  made over $900K.*
 
 
 ### Business Recommendations
 
-*Here are my recommendation for the Sprocket Pty ltd on how to tailor their Marketing and Growth strategy to improve their profitability*
+*Here are my honest recommendation for this Brand in other to generate more Sales, enhance customer engagement and rete*
 
-*1.) More resources should be allocated to the "Mass_Customer Segment" which are their huge treasure to increase the number of purchases*
+*1.) The Business is advice to allocate more of its resources to this top countries especially the United Kingdom in other to generate more sales from those countries*
 
-*2.) Standard which is the Product line with the highest Profit should always be available upon demand*
+*2.) As for the lowest performing countries, a advertising campaigns should be carryout to create more awareness and sensitize the people with some incentives offerings*
 
-*3.) Most of this Business customers come from the New South Wales and this State should be top priority or target for the next campaign*
+*3.) The top performing products should be produce in large quantity to meet up with demand in those countries they are doing well*
 
-*4.) The additional external dataset that can be use to extract more insights for this analysis is "Sales Dataset"*
+*4.) As for customer retention the Business need to provides excellent support to resolve issues and improve satisfaction*
 
-*5.) The People the Sprocket Pty Ltd should be targeting should be the "Masses" because that's where the highest purchases is coming from. They are advice to tailor their marketing campaign to suite the Masses to increase awareness*
+*5.) Proactive communication: Proactive communication*
 
 ### Limitations
 ### References
